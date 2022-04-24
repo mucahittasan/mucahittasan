@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Mucahit. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Frontend Developer | ReactJs
-
+---
 <div align="center">
-    <a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/MurattTasan">
