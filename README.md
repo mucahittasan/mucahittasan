@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/mucahittasan/">
   <img align="left" alt="Mucahit Tasan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</div>
 
 ---
 
@@ -23,4 +24,3 @@
 </p>
 
 - How to reach me [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
-</div>
