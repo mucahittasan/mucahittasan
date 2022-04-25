@@ -3,15 +3,17 @@ Hi 👋 My name is Mucahit
 
 Frontend Developer
 ------------------
-<div align="left">
+<div>
   
 I'am mucahit, a frontend developer. I have been interested in software for 2 years and decided to progress in the field of web development.
-
+  
+<img src="https://user-images.githubusercontent.com/88967412/165093253-056d4fe3-07b3-4c6f-8c11-31d46a5538cd.gif" align="right"/>
+  
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mucahittasan@gmail.com](mailto:mucahittasan@gmail.com)
 * 🧠  I'm learning Redux and Tailwindcss
   
-<img src="https://user-images.githubusercontent.com/88967412/165093253-056d4fe3-07b3-4c6f-8c11-31d46a5538cd.gif" align="right"/>
+
   
 </div>
 
