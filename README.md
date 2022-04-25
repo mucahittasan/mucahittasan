@@ -1,1 +1,45 @@
-<div align='center'> <img src="https://user-images.githubusercontent.com/88967412/165058142-fb6512d6-17ab-4c60-8d16-f1385160089b.gif" align="right" width="350" > ### Hi there, I'm Mucahit. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ## Frontend Developer | ReactJs <br /> <p align='center'> <a href="https://www.linkedin.com/in/mucahittasan"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp; &nbsp;&nbsp; <a href="https://www.linkedin.com/in/mucahittasan"><img height="30" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>&nbsp;&nbsp; &nbsp;&nbsp; <a href="https://twitter.com/MurattTasan"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> </p> </div> ## 🔍 About me ### <p style="width:300px">I'am mucahit, a frontend developer. I have been interested in software for 2 years and decided to progress in the field of web development. </p> - 💡 Learning Redux - How to reach me [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com) ## ⚙ Technologies and Tools <img src="https://user-images.githubusercontent.com/88967412/165058652-7107ad53-0a93-4e3c-a4bc-3b337a2c3a8d.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165058988-5e981636-7eed-467e-9514-362d45438e9e.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165059104-402acf84-a5af-4ee8-b1ca-9e3cdbbf2f6e.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165059215-77daec15-c84d-43d3-8c5f-ab00ebbfcbdc.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165059367-eadfa429-7d87-47b6-aba9-d6a591fddbb1.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165060091-68ece71f-2838-4bc4-8e53-bd990200014d.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165059837-9c7355eb-e9e4-411c-832b-6fd97a49fd3d.png" width="40" style="margin-right:15px" align="left"/> <img src="https://user-images.githubusercontent.com/88967412/165059677-cf073ac5-5c09-4554-9414-6692c6f86415.png" width="40" align="left"/> <br /> <br /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=mucahittasan&theme=radical" style="margin-right:15px" > <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mucahittasan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br> <br /> <p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg "alt="Github Stats" /> </p>
+Hi 👋 My name is Mucahit
+========================
+
+Frontend Developer
+------------------
+
+I'am mucahit, a frontend developer. I have been interested in software for 2 years and decided to progress in the field of web development.
+
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [mucahittasan@gmail.com](mailto:mucahittasan@gmail.com)
+* 🧠  I'm learning Redux and Tailwindcss
+
+<img src="https://user-images.githubusercontent.com/88967412/165093253-056d4fe3-07b3-4c6f-8c11-31d46a5538cd.gif" align="right"/>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tasanmucahit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MurattTasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mucahittasan"><img src="https://github-readme-stats.vercel.app/api?username=mucahittasan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mucahittasan's GitHub stats" /></a>
+
+<a href="http://www.github.com/mucahittasan"><img src="https://activity-graph.herokuapp.com/graph?username=mucahittasan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mucahittasan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahittasan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
