@@ -25,7 +25,7 @@
 
 - How to reach me [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
 
-## Technologies and Tools
+## ⚙ Technologies and Tools
 
 <img src="https://user-images.githubusercontent.com/88967412/165058652-7107ad53-0a93-4e3c-a4bc-3b337a2c3a8d.png" width="40" style="margin-right:15px" align="left"/>
 <img src="https://user-images.githubusercontent.com/88967412/165058988-5e981636-7eed-467e-9514-362d45438e9e.png" width="40" style="margin-right:15px" align="left"/>
@@ -35,3 +35,19 @@
 <img src="https://user-images.githubusercontent.com/88967412/165060091-68ece71f-2838-4bc4-8e53-bd990200014d.png" width="40" style="margin-right:15px" align="left"/>
 <img src="https://user-images.githubusercontent.com/88967412/165059837-9c7355eb-e9e4-411c-832b-6fd97a49fd3d.png" width="40" style="margin-right:15px" align="left"/>
 <img src="https://user-images.githubusercontent.com/88967412/165059677-cf073ac5-5c09-4554-9414-6692c6f86415.png" width="40" align="left"/>
+
+<br />
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mucahittasan&theme=radical" style="margin-right:15px" >
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mucahittasan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+<br />
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg "alt="Github Stats" />
+</p>
