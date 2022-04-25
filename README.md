@@ -1,5 +1,6 @@
 <div align='center'>
-<img src="https://media.giphy.com/media/10Jpr9KSaXLchW/giphy-downsized-large.gif" align="right" width="350" >
+<img src="https://user-images.githubusercontent.com/88967412/165058142-fb6512d6-17ab-4c60-8d16-f1385160089b.gif" align="right" width="350" >
+
 
 ### Hi there, I'm Mucahit. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
