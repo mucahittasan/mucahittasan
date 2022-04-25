@@ -3,7 +3,7 @@ Hi 👋 My name is Mucahit
 
 Frontend Developer
 ------------------
-<div>
+<div align="left">
   
 I'am mucahit, a frontend developer. I have been interested in software for 2 years and decided to progress in the field of web development.
 
