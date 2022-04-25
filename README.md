@@ -5,16 +5,18 @@
 
 ## Frontend Developer | ReactJs
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/MurattTasan">
-  <img align="left" alt="Mucahit Tasan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mucahittasan/">
-  <img align="left" alt="Mucahit Tasan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<br />
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/mucahittasan"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mucahittasan"><img height="30" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://twitter.com/MurattTasan"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+
+ </p>
+
 </div>
+
+<br />
 
 ---
 
