@@ -9,7 +9,7 @@ I'am mucahit, a frontend developer. I have been interested in software for 2 yea
   
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
-* 🧠  I'm learning Redux and Tailwindcss
+* 🧠  I'm learning Redux
 
 </div>
 
