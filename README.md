@@ -34,7 +34,12 @@ I'am mucahit, a frontend developer. I have been interested in software for 2 yea
 
 ### Socials
 
-<p align="left"> <a style="margin-right:10px" href="https://www.github.com/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a style="margin-right:10px" href="http://www.instagram.com/tasanmucahit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a style="margin-right:10px" href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a style="margin-right:10px" href="https://www.twitter.com/MurattTasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a style="margin-right:10px" href="https://www.github.com/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a style="margin-right:10px" href="http://www.instagram.com/tasanmucahit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a style="margin-right:10px" href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a style="margin-right:10px" href="https://www.twitter.com/MurattTasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 <b>My GitHub Stats</b>
 
