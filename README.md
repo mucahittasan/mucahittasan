@@ -5,6 +5,7 @@ Frontend Developer
 ------------------
 <div>
 <img src="https://user-images.githubusercontent.com/88967412/165097478-2d23c860-0910-4a8a-b98f-1caad710f4d9.gif" align="right" width="400"/>
+  
 I'am mucahit, a frontend developer. I have been interested in software for 2 years and decided to progress in the field of web development.
   
 * 🌍  I'm based in Turkey
