@@ -1,7 +1,7 @@
-Hi 👋 My name is Mucahit
+<p align="center">Hi 👋 My name is Mucahit</p>
 ========================
 
-Frontend Developer
+<p align="center">Frontend Developer</p>
 ------------------
 <div>
   
