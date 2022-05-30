@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Mucahit</h1>
 
-<h2 align="center">Frontend Developer</h2>
+<h3 align="center">Frontend Developer</h3>
 
 <div>
   
@@ -10,7 +10,7 @@ I'am mucahit, a frontend developer. I have been interested in software for 2 yea
   
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
-* 🧠  I'm learning Redux
+* 🧠  I'm learning Nodejs and Expressjs
 
 </div>
 
