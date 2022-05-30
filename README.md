@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Mucahit</h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h2>
 
 <div>
   
