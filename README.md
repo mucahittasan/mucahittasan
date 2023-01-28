@@ -1,8 +1,7 @@
-<p align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mucahit </p>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mucahit 
 ===============================================================================================================================
 
-<h3 align="center">Frontend Developer</h3>
+<h3>Frontend Developer</h3>
 
 
 * 🌍  I'm based in Turkey
