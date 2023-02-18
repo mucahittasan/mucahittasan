@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning NextJs and Typescript
 
 ### Skills
 
