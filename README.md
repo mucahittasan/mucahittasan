@@ -30,6 +30,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/88967412/235479424-97aeb646-72bd-4c96-a56d-3abf717ca2a7.png" width="36" height="36" alt="Prisma" />
 </a>
+<a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/88967412/235479629-6d8e7cc5-df4c-43ef-8da2-03afff8b320c.png" width="36" height="36" alt="Next Auth" />
+</a>
 </p>
 
 ### Socials
