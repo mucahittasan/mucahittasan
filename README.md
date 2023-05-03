@@ -1,7 +1,5 @@
-<h1 align="center">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is Mucahit </h1>
-===============================================================================================================================
-
-<h3>Frontend Developer</h3>
+<h1 align="center">Hi 👋 this is Mucahit </h1>
+<h3 align="center">Frontend Developer</h3>
 
 
 * 🌍  I'm based in Turkey
@@ -44,3 +42,7 @@
 <a href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahittasan&show_icons=true&locale=en&layout=compact" alt="mucahittasan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mucahittasan&show_icons=true&locale=en" alt="mucahittasan" /></p>
