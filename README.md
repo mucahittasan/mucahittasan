@@ -36,16 +36,13 @@
 ### Socials
 
 <p align="left"> 
+  
   <a href="https://discord.com/users/Mucahit#9370" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a> 
 <a href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=mucahittasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mucahittasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mucahittasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
