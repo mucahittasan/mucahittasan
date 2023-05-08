@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋 this is Mucahit </h1>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋 I'm Mucahit </h1>
 <h3 align="center">Frontend Developer</h3>
 
 
