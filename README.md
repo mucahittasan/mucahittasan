@@ -36,12 +36,7 @@
 ### Socials
 
 <p align="left"> 
-  
-  <a href="https://discord.com/users/Mucahit#9370" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a> 
 <a href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
 </p>
 
 ## 🏆 GitHub Trophies
