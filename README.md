@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mucahittasan0@gmail.com](mailto:mucahittasan0@gmail.com)
-* 🧠  I'm learning NextJs and Typescript
+* 🧠  I'm learning React Native
 
 ### Skills
 
