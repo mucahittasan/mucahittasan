@@ -37,7 +37,9 @@
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/mucahittasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UC6UZCUOR62Lp3qhAWJ-uymQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mucahittasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
