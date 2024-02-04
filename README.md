@@ -1,4 +1,5 @@
-# Hi 👋 I'm Mucahit and i'm a Frontend Developer
+<p align="center"># Hi 👋 I'm Mucahit</p>
+<p align="center">## Frontend Developer</p>
 
 
 
