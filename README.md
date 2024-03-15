@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="900" src = 'https://github.com/mucahittasan/mucahittasan/assets/88967412/70e01fc8-6662-4e95-bb79-f7987624bc7c' />
+    <img width="900" height="300" src = 'https://github.com/mucahittasan/mucahittasan/assets/88967412/70e01fc8-6662-4e95-bb79-f7987624bc7c' />
 </div>
 
 
