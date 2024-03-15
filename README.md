@@ -11,7 +11,7 @@
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mucahittasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Mucahit's github stats](https://github-readme-stats.vercel.app/api?username=mucahittasan&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
